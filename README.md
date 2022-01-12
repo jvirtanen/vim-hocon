@@ -14,7 +14,7 @@ Install using Vim's built-in package management:
 ```
 mkdir -p ~/.vim/pack/jvirtanen/start
 cd ~/.vim/pack/jvirtanen/start
-git clone git://github.com/jvirtanen/vim-hocon.git
+git clone https://github.com/jvirtanen/vim-hocon.git
 ```
 
 To handle all files with the `.conf` extension as HOCON, add the following line
